@@ -1,0 +1,6 @@
+vpc_name           = "uat-vpc-terraform"
+vpc_cidr_block     = "10.0.0.0/16"
+igw_name           = "uat-Igw-terraform"
+public_subnet_name = "uat-public-subnet-1"
+route_table_name   = "uat-RTB-terraform"
+sec_grp_name       = "uat-allow-all"
