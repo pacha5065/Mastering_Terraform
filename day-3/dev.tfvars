@@ -1,0 +1,6 @@
+vpc_name           = "dev-vpc-terraform"
+vpc_cidr_block     = "10.0.0.0/16"
+igw_name           = "dev-Igw-terraform"
+public_subnet_name = "dev-public-subnet-1"
+route_table_name   = "dev-RTB-terraform"
+sec_grp_name       = "dev-allow-all"
